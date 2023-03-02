@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my final year project**
 
-- 🌱 I’m currently learning **Back-end development**
+- 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **SDR,GNU Radio, DSRC**
 
