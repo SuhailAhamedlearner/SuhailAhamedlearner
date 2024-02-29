@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Suhail</h1>
-<h3 align="center">A final year undergraduate from ENTC, UoM</h3>
+<h3 align="center">Engineer - Cloud Engineering @ Axiata Digital Labs | HCIA-Datacom</h3>
 
-- 🔭 I’m currently working on **my final year project**
+- 🔭 I’m currently working as a **Cloud Engineer**
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Azure**
 
-- 💬 Ask me about **SDR,GNU Radio, DSRC**
+- 💬 Ask me about **Cloud services in AWS, GCP, and Huawei Cloud**
 
 - 📫 How to reach me **suhailshimla1@gmail.com**
 
